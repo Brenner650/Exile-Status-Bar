@@ -1,0 +1,5 @@
+class RscTitles
+{
+	// Status Bar
+	#include "Custom\StatusBar\statusBar.hpp"
+};
